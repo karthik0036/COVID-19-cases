@@ -1,4 +1,4 @@
-# COVID-19-cases
+# COVID-19-case_study
 
 Problem Statement:
 Its 25th March Afternoon and India has reported its 9th death with 562 total confirmed cases due to COVID-19. Fresh cases from Manipur, Bihar, Gujrat, and Madhya Pradhesh have been reported by the Union Ministry of Health and Family Welfare.
